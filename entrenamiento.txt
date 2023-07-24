@@ -1,0 +1,137 @@
+Context: ¿Cuántos comensales tiene el comedor universitario?
+Response: El comedor universitario 2023 tiene alrededor de 4000 comensales.
+
+Context: ¿Cuál es el horario de atención del comedor universitario?
+Response: El horario de atención del comedor universitario es de 11:00 am hasta las 02:00 pm de la tarde.
+
+Context: ¿Cuál es el requisito indispensable para tener acceso al comedor universitario?
+Response: Para tener acceso al comedor universitario, es requisito indispensable estar en extrema pobreza y vivir en provincia y distritos pobres.
+
+Context: ¿En qué horario atienden en el comedor universitario?
+Response: El comedor universitario solo atiende en el almuerzo; no tiene desayuno ni cena.
+
+Context: ¿Cómo puedo tramitar mi bachiller después de terminar mi carrera?
+Response: Para tramitar tu bachiller después de haber concluido tu carrera, debes apersonarte a secretaría de la escuela profesional en la que te encuentras.
+
+Context: ¿Cuáles son los pasos para obtener mi bachiller?
+Response: Los pasos para obtener tu bachiller son: terminar tu carrera, no deber nada a la Universidad, presentar el certificado de prácticas preprofesionales y tu ficha de matrícula.
+
+Context: ¿Cuál es el proceso para inscribirme en el comedor universitario?
+Response: El proceso de inscripción en el comedor universitario varía según las políticas de la universidad. Te recomiendo consultar directamente con el personal encargado del comedor para obtener información detallada.
+Aquí te presento un conjunto de preguntas y respuestas sobre el tema del comedor universitario y el trámite de bachiller, generadas para entrenar un modelo de GPT-2:
+
+Pregunta: ¿Qué requisitos se necesitan para acceder al comedor universitario?
+
+Respuesta: Los principales requisitos son: estar matriculado en la universidad, cursar una carrera de pregrado, residir en una provincia o distrito de extrema pobreza, y acreditar condición de pobreza o pobreza extrema con documentos de ingresos.
+
+Pregunta: ¿El comedor universitario atiende desayunos y cenas? 
+
+Respuesta: No, el comedor universitario por lo general solo brinda el servicio de almuerzo de lunes a viernes dentro del periodo lectivo. No cubre desayunos ni cenas.
+
+Pregunta: ¿Cómo se obtiene el carné para ingresar al comedor universitario?
+
+Respuesta: Llenando la ficha socioeconómica en bienestar universitario, esperando la resolución de aceptación, y acercándose nuevamente a bienestar con la resolución para que le entreguen el carné. Este tiene vigencia de 1 año.
+
+Pregunta: ¿Qué sucede si un estudiante no alcanza vacante en su turno en el comedor universitario?
+
+Respuesta: Puede ingresar posteriormente en un horario especial llamado de "caballeros" una vez que haya pasado el turno que le corresponde.
+
+Pregunta: ¿Cómo se tramita la renovación del carné del comedor universitario? 
+
+Respuesta: Se debe realizar cada año académico, cumpliendo de nuevo con los requisitos y con un mínimo de créditos aprobados en los últimos 2 semestres.
+
+Pregunta: ¿Qué documentos se necesitan para tramitar el certificado de estudios universitario?
+
+Respuesta: Constancia de no adeudar materiales de biblioteca, constancia de no adeudar pensiones, constancia de prácticas preprofesionales y en algunos casos constancia de aprobación de tesis.
+
+Pregunta: ¿Ante quién se tramita la solicitud de expedición del Diploma de Bachiller?
+
+Respuesta: Ante la Unidad de Grados y Títulos de la universidad, presentando una solicitud dirigida al Decano de la Facultad.
+
+Pregunta: ¿Cuál es el documento principal para tramitar la expedición del bachiller universitario?
+
+Respuesta: El certificado de estudios original emitido por la facultad donde el estudiante cursó su carrera. Este se obtiene una vez culminados todos los cursos y créditos.
+
+Pregunta: ¿En cuánto tiempo aproximado se obtiene el Diploma de Bachiller? 
+
+Respuesta: El trámite demora aproximadamente 30 días hábiles desde el momento de presentar todos los documentos requeridos ante la Unidad de Grados y Títulos.
+
+El comedor universitario es un beneficio esencial para los estudiantes de pregrado que se encuentran en situación de pobreza o pobreza extrema. Permite que accedan a una alimentación balanceada y abundante, cubriendo la importante comida del almuerzo.
+
+Para postular son requisitos fundamentales estar debidamente matriculado en una universidad pública o privada, cursar los primeros años de una carrera universitaria de pregrado, residir en una zona de extrema pobreza según los índices del INEI y cumplir con acreditar escasos recursos económicos.
+
+El proceso inicio completando una extensa ficha socioeconómica donde se detallan los ingresos y gastos familiares, la situación del hogar, sus integrantes y sus ocupaciones. Esta ficha se entrega en el área de bienestar universitario junto con la documentación de sustento respectiva. 
+
+Entre los documentos más importantes que se adjuntan están las declaraciones juradas de ingresos de los padres o apoderados, certificados de trabajo, de ingresos, de propiedades, de alquiler de vivienda, entre otros. Si ambos padres trabajan de manera independiente, se requiere detallar el ingreso promedio mensual con documentos sustentatorios.
+
+La universidad realizará las verificaciones del caso, pudiendo efectuar una visita social al domicilio del postulante ubicado en zona de pobreza extrema. El objetivo es constatar las condiciones de vida y entorno familiar, revisando el grado de necesidad. 
+
+Luego de la evaluación socioeconómica, bienestar universitario emite la resolución de aprobación o rechazo de la postulación al comedor universitario. Si resulta beneficiado, el estudiante deberá acercarse nuevamente para recibir su carné, el cual le permitirá el acceso diario al comedor.
+
+El carné se entrega de manera gratuita y tiene una validez de un año académico. Cuenta con los datos personales, foto y código del estudiante. Al inicio de cada año se debe renovar presentando una nueva solicitud y la documentación requerida. Para la renovación también se pide haber aprobado un mínimo de cursos en los últimos ciclos.
+
+El servicio de comedor en las universidades públicas se brinda usualmente solo al mediodía, en el turno del almuerzo. El horario de atención es de lunes a viernes dentro del periodo lectivo, permaneciendo cerrado sábados, domingos y feriados. Diariamente la atención es entre las 12 del mediodía y las 2 de la tarde.
+
+No se ofrece desayuno ni cena. Solo se cubre la comida más importante del día, permitiendo a los estudiantes tener la energía calórica necesaria para asistir a clases por la tarde. Esto les da un rendimiento óptimo en sus cursos de pregrado.
+
+La capacidad de los comedores universitarios está limitada por el espacio físico y la cantidad de mobiliario disponible. Por ello la demanda suele ser superior a la oferta, debiendo establecerse turnos y horarios de atención por grupos de estudiantes. Esto evita aglomeraciones pero también puede dejar a algunos sin acceso en su hora asignada.
+
+Los que no alcanzan vacante en el turno que les corresponde, pueden ingresar a un segundo horario de “caballeros”. Este funciona una vez que todos los demás turnos han concluido, entre la 1 y 2 de la tarde. Si bien no es el horario ideal, les permite acceder al beneficio alimenticio del almuerzo universitario.
+
+Dentro del local del comedor se debe mantener orden, respeto y buena conducta. Está prohibido sacar alimentos fuera del recinto o trasladarlos a otros ambientes de la universidad. El personal de vigilancia supervisa el cumplimiento de estas reglas.
+
+El menú del día es planificado por un nutricionista para cubrir los requerimientos calóricos y nutricionales de los estudiantes. Incluye entrada, plato de fondo, jugo natural y postre. Los alimentos son preparados cada día en la cocina del comedor con altos estándares de higiene.
+
+El acceso a esta alimentación balanceada y gratuita mejora el rendimiento académico de los estudiantes beneficiarios, que pueden dedicar más horas al estudio sin preocuparse por conseguir alimentos. Muchos de ellos provienen de zonas de extrema pobreza con desnutrición.
+
+Lamentablemente en el periodo de pandemia, los comedores universitarios en todo el país tuvieron que cerrar temporalmente cumpliendo las restricciones sanitarias. Recién a mediados del 2022 se están reabriendo paulatinamente, aplicando protocolos para evitar contagios.
+
+Los requisitos y procedimientos varían un poco entre universidades públicas y privadas. Pero en general se pide estar matriculado en pregrado, demostrar escasos recursos y no tener sanciones disciplinarias. La vigencia del carné de comedor también debe renovarse cada año.
+
+Pasando al trámite para la obtención del diploma de bachiller, este se puede iniciar una vez que el estudiante universitario ha concluido satisfactoriamente todos los cursos y créditos de su carrera profesional. El primer paso es acercarse a la secretaría de la facultad.
+
+Allí se solicitará la emisión del certificado de estudios, presentando la constancia de no adeudar materiales de biblioteca y otras similares. También se presentan constancias de haber realizado las prácticas preprofesionales y de haber aprobado la tesis si fuera el caso.
+
+Con este certificado de estudios, el egresado deberá apersonarse a la Unidad de Grados y Títulos de su universidad. Esta unidad se encarga de revisar los documentos y gestionar la emisión de diplomas de bachiller, títulos profesionales, maestrías y doctorados.
+
+El estudiante entregará una solicitud dirigida al Decano de la Facultad, pidiendo la expedición de su Diploma de Bachiller Universitario. Esto debe presentarse junto con el certificado de estudios original y otros documentos de sustento como copia del DNI, partida de nacimiento actualizada y recibo de pago del derecho de trámite.
+
+Cumplidos todos estos requerimientos documentarios, la Unidad de Grados y Títulos procederá a emitir el Diploma de Bachiller correspondiente a la carrera profesional que el estudiante cursó exitosamente. Todo el proceso demora aproximadamente 30 días hábiles.
+
+Este diploma certifica oficialmente la culminación de los estudios universitarios de pregrado del estudiante. Le permite el grado académico de Bachiller y es el paso previo para la posterior obtención del título profesional de licenciado o ingeniero.
+
+El diploma de bachiller usualmente lleva los datos personales del egresado, la carrera profesional que cursó, la facultad y universidad correspondiente. Tiene una decorativa orla con colores representativos de la casa de estudios y lleva las firmas de las autoridades educativas.
+
+Una vez listo el diploma, el bachiller deberá tomar contacto con la Unidad de Grados y Títulos para conocer la fecha en que puede recogerlo. En ese momento deberá acercarse personalmente o enviar un representante autorizado mediante poder para recibir tan anhelado documento.
+
+Algunas universidades organizan ceremonias especiales de grados en las que se hace entrega formal del diploma de bachiller a los egresados. Esto está sujeto a los protocolos sanitarios por la pandemia, pero permite vivir un momento emblemático para los nuevos profesionales.
+
+Aunque no habilita aún para ejercer profesionalmente, el diploma de bachiller es sumamente valorado por abrir puertas laborales y educativas. Permite postular a maestrías, seguir una segunda carrera o acceder a diversas opciones de trabajo en el sector público y privado.
+
+Por ello completar este trámite académico-administrativo es muy importante. Demuestra que el estudiante culminó exitosamente su carrera universitaria de pregrado, obteniendo el grado de bachiller para posteriormente aspirar al título profesional.
+
+Los requisitos varían un poco entre universidades privadas y públicas. Pero en líneas generales se necesita presentar el certificado de estudios ante la Unidad de Grados y Títulos, junto con otros documentos de sustento como copia del DNI y recibo de pago.
+
+El proceso dura aproximadamente un mes. Supervisarlo y hacer seguimiento es crucial para obtener el ansiado diploma de bachiller sin inconvenientes. Este abre las puertas a un mejor futuro educativo y laboral para los nuevos profesionales egresados de las universidades.
+
+Tanto el acceso al comedor universitario como la obtención oportuna del diploma de bachiller son servicios esenciales de bienestar que toda universidad debe garantizar. Permiten a los estudiantes de escasos recursos alimentarse bien, culminar su carrera y obtener su primer grado académico.
+
+El Estado debe seguir ampliando la cobertura de estos programas mediante políticas de inclusión. Y las universidades deben difundir y facilitar los trámites, orientando adecuadamente a los miles de estudiantes que cada año acceden a estos beneficios mediante los canales establecidos.
+
+Se trata de derechos fundamentales que no pueden limitarse o burocratizarse en exceso. Tanto la alimentación como la educación son pilares de toda sociedad que busca el desarrollo humano integral. Y el acceso a ellas debe garantizarse sin discriminación, especialmente para los jóvenes más necesitados.
+
+Los servicios de comedor y titulación en las universidades cumplen un rol decisivo. Por un lado, aseguran las condiciones físicas y nutricionales para que los estudiantes de escasos recursos puedan seguir estudiando. Y por otro lado, les permiten certificar los estudios realizados, mejorando sus credenciales académicas y laborales.
+
+Ambos trámites están relacionados en facilitar la conclusión de una carrera profesional. Son eslabones de una misma cadena dirigida a democratizar la educación superior e inserción laboral formal para miles de jóvenes talentosos en condiciones de pobreza.
+
+De allí la importancia de difundir y transparentar estos procedimientos administrativos entre los estudiantes, para que puedan ejercer sus derechos. Las universidades están llamadas a cumplir un rol de orientación y acompañamiento durante estos trámites, con procedimientos simplificados y plazos rápidos.
+
+Los jóvenes universitarios son el futuro profesional del país. Garantizar su adecuada alimentación y certificación académica debe ser una prioridad de toda política educativa que apunte a la inclusión social y la meritocracia. El talento se encuentra en todos los estratos sociales, y es tarea de las universidades impulsarlo, sin que las brechas económicas sean un obstacle.
+
+Programas como los comedores universitarios y unidades de grados y títulos contribuyen con este objetivo. Facilitan que cualquier joven, viniendo incluso de zonas rurales remotas en pobreza extrema, pueda culminar sus estudios y obtener un diploma que abra puertas antes cerradas.
+
+Con apoyo nutricional y orientación oportuna es posible garantizar mayores niveles de graduación y evitar la deserción universitaria. El Estado debe seguir invirtiendo en ampliar estos servicios de bienestar, mientras que las universidades deben trabajar en la mejora continua de sus procesos de admisión y titulación.
+
+El derecho a la educación y a la alimentación son universales. Los trámites administrativos asociados no pueden convertirse en barreras burocráticas que priven a nadie de ejercerlos. Por el contrario, es responsabilidad de las instituciones educativas garantizar el acceso inclusivo a estos derechos fundamentales.
+
+Ecuador tiene aún profundas brechas educativas y económicas que superar. Los programas existentes son un avance, pero la universalización efectiva de la educación superior de calidad para todos los talentos del país, sin distinción de recursos, es aún una meta por alcanzar. Y en ello, las universidades tienen un rol central.
